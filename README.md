@@ -63,7 +63,9 @@ This pad will be handwired. A custom PCB will not be designed for two primary re
 - Total: 52.14 USD
 
 > [Cart_Screenshots](https://github.com/lassiipk/EntPad/tree/main/BOM/Cart_Screenshots)
+> 
 > [BOM_Folder](https://github.com/lassiipk/EntPad/tree/main/BOM)
+> 
 > [BOM.csv](https://github.com/lassiipk/EntPad/blob/main/BOM/BOM.csv)
 
 ---
