@@ -48,19 +48,19 @@ This pad will be handwired. A custom PCB will not be designed for two primary re
 
 ---
 
-- 1 USD = 279.13 PKR | "24-Feb-2026 - 3 PM"
-  
-| S No. | Product            | Quantity | PKR       | USD      | Shipping Cost   | Total (Including Shipping) | Note           | Product link |
-| ----- | ------------------ | -------- | ---       | -------- | --------------- | -------------------------- | ----           | ------------ |
-| 1.    | Coppor Wire        | 1        | Rs. 99    | $ 0.36   | Rs. 255/ $ 0.91 | Rs. 354/   $ 1.27          | Wirring        | [Daraz](https://www.daraz.pk//products/i248352527-s1466155466.html?spm=a2o42.cart.0.0.35ba7d68r3hdIB&urlFlag=true) |
-| 2.    | Cherry-MX-Switches | 1        | Rs. 1,950 | $ 6.99   | Rs. 185/ $ 0.66 | Rs. 2,135/ $ 7.66          | 10/Pack Keys   | [Daraz](https://www.daraz.pk//products/i936558752-s3994103049.html?spm=a2o42.cart.0.0.70657d68T2caa4&urlFlag=true) |
-| 3.    | 1N4148 Diodes      | 1        | Rs. 110   | $ 0.39   | Rs. 255/ $ 0.91 | Rs. 365/   $ 1.31          | 20/Pack Diodes | [Daraz](https://www.daraz.pk//products/i213582787-s1422134691.html?spm=a2o42.cart.0.0.5fe17d68i9UQUz&urlFlag=true) |
-| 4.    | Seeed XIAO RP2040  | 1        | -------- | $ 14.43  | -------/ $ 3.54 | --------/  $ 17.97         | MCU            | [AliExpress](https://www.aliexpress.com/item/1005007514206323.html?spm=a2g0o.cart.0.0.208738daGQMkJt&mp=1&pdp_npi=6%40dis%21USD%21USD%2029.45%21USD%2014.43%21%21USD%2014.43%21%21%21%402140f53817719262940875464e51d3%2112000041086893530%21ct%21PK%216395474379%21%211%210%21) |
-| 5.    | 4 M2x8mm standoffs | 1        | -------- | $ 3.77   | -------/ $ 1.99 | --------/  $ 5.76          | Standoffs      | [AliExpress](https://www.aliexpress.com/item/1005008713639234.html?spm=a2g0o.cart.0.0.208738daGQMkJt&mp=1&pdp_npi=6%40dis%21USD%21USD%203.77%21USD%203.77%21%21USD%203.77%21%21%21%402140f53817719262940875464e51d3%2112000046354950634%21ct%21PK%216395474379%21%211%210%21) |
-| 6.    | 8 M2x6mm screws    | 1        | -------- | $ 1.18   | -------/ $ 1.99 | --------/  $ 3.17          | Screws         | [AliExpress](https://www.aliexpress.com/item/1005003604942716.html?spm=a2g0o.cart.0.0.208738daGQMkJt&mp=1&pdp_npi=6%40dis%21USD%21USD%201.18%21USD%201.18%21%21USD%201.18%21%21%21%402140f53817719266709347865e51d3%2112000026464812450%21ct%21PK%216395474379%21%211%210%21) |
-| 7.    | 3D-Printed-Case    | 1        | -------- | -------  | -------/ $ 15   | --------/  $ 15            | Case & KeyCap  | [#printing-legion](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
+| S No. | Product            | Quantity | USD      | Shipping | Total    | Note          | Product link |
+| ----- | ------------------ | -------- | -------- | -------- | -------  | ------------- | ------------ |
+| 1.    | Coppor Wire        | 1        | US $4.29 | Free     | US $4.29 | Wirring       | [AliExpress](https://www.aliexpress.com/item/1005003418976783.html?spm=a2g0o.cart.0.0.7d0d38daIVj4Fu&mp=1&pdp_npi=6%40dis%21USD%21USD%204.55%21USD%203.79%21%21USD%203.79%21%21%21%40212a6e3217738903183244076e9db5%2112000025702038411%21ct%21PK%216520593580%21%211%210%21) |
+| 2.    | Cherry-MX-Switches | 1        | US $4.07 | Free     | US $4.07 | 10 Keys       | [AliExpress](https://www.aliexpress.com/item/1005006091988869.html?spm=a2g0o.cart.0.0.7d0d38daIVj4Fu&mp=1&pdp_npi=6%40dis%21USD%21USD%205.92%21USD%204.06%21%21USD%204.06%21%21%21%40212a6e3217738903183244076e9db5%2112000035698597730%21ct%21PK%216520593580%21%211%210%21) |
+| 3.    | 1N4148 Diodes      | 1        | US $2.76 | Free     | US $2.76 | 20 Diodes     | [AliExpress](https://www.aliexpress.com/item/1005008577093447.html?spm=a2g0o.cart.0.0.7d0d38daIVj4Fu&mp=1&pdp_npi=6%40dis%21USD%21USD%205.73%21USD%202.25%21%21USD%202.25%21%21%21%40212a6e3217738903183244076e9db5%2112000045799278723%21ct%21PK%216520593580%21%211%210%21) |
+| 4.    | Seeed XIAO RP2040  | 1        | US $4.04 | US $3.32 | US $7.36 | MCU           | [AliExpress](https://www.aliexpress.com/item/1005008652799938.html?spm=a2g0o.cart.0.0.7d0d38daIVj4Fu&mp=1&pdp_npi=6%40dis%21USD%21USD%2014.43%21USD%204.04%21%21USD%204.04%21%21%21%40212a6e3217738903183244076e9db5%2112000046106276655%21ct%21PK%216520593580%21%211%210%21) |
+| 5.    | 4 M2x8mm standoffs | 1        | US $3.50 | Free     | US $3.50 | 4-Standoffs   | [AliExpress](https://www.aliexpress.com/item/1005008713639234.html?spm=a2g0o.cart.0.0.208738daGQMkJt&mp=1&pdp_npi=6%40dis%21USD%21USD%203.77%21USD%203.77%21%21USD%203.77%21%21%21%402140f53817719262940875464e51d3%2112000046354950634%21ct%21PK%216395474379%21%211%210%21) |
+| 6.    | 8 M2x6mm screws    | 1        | US $1.26 | Free     | US $1.26 | 8-Screws      | [AliExpress](https://www.aliexpress.com/item/1005003604942716.html?spm=a2g0o.cart.0.0.208738daGQMkJt&mp=1&pdp_npi=6%40dis%21USD%21USD%201.18%21USD%201.18%21%21USD%201.18%21%21%21%402140f53817719266709347865e51d3%2112000026464812450%21ct%21PK%216395474379%21%211%210%21) |
+| 7.    | 3D-Printed-Case    | 1        | N/a      | US $10   | $ 10     | Case & KeyCap | [#printing-legion](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
 
-- Total: 52.14 USD
+- Total: USD $33.24
+
+---
 
 > [Cart_Screenshots](https://github.com/lassiipk/EntPad/tree/main/BOM/Cart_Screenshots)
 > 
